@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "e:\\3º Ano\\LP\\GitHub\\versao 1\\AulaC-\\ImoveisApp\\ImoveisApp.csproj": {}
+    "E:\\3º Ano\\LP\\GitHub\\versao 1\\AulaC-\\ImoveisApp\\ImoveisApp.csproj": {}
   },
   "projects": {
-    "e:\\3º Ano\\LP\\GitHub\\versao 1\\AulaC-\\ImoveisApp\\ImoveisApp.csproj": {
+    "E:\\3º Ano\\LP\\GitHub\\versao 1\\AulaC-\\ImoveisApp\\ImoveisApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "e:\\3º Ano\\LP\\GitHub\\versao 1\\AulaC-\\ImoveisApp\\ImoveisApp.csproj",
+        "projectUniqueName": "E:\\3º Ano\\LP\\GitHub\\versao 1\\AulaC-\\ImoveisApp\\ImoveisApp.csproj",
         "projectName": "ImoveisApp",
-        "projectPath": "e:\\3º Ano\\LP\\GitHub\\versao 1\\AulaC-\\ImoveisApp\\ImoveisApp.csproj",
+        "projectPath": "E:\\3º Ano\\LP\\GitHub\\versao 1\\AulaC-\\ImoveisApp\\ImoveisApp.csproj",
         "packagesPath": "C:\\Users\\2324\\.nuget\\packages\\",
-        "outputPath": "e:\\3º Ano\\LP\\GitHub\\versao 1\\AulaC-\\ImoveisApp\\obj\\",
+        "outputPath": "E:\\3º Ano\\LP\\GitHub\\versao 1\\AulaC-\\ImoveisApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\2324\\AppData\\Roaming\\NuGet\\NuGet.Config"
