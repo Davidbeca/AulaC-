@@ -1,0 +1,9 @@
+﻿dotnet : E:\3┬║ Ano\LP\GitHub\versao 1\AulaC-\TechRepair\TechRepair.csproj : warning NU1903: Package 'SQLitePCLRaw.lib.e_sqlite3' 2.1.10 has a known high severity vulnerability, https://github.com/advisories/GHSA-2m69-gcr7-jv3q
+At line:1 char:1
++ dotnet ef database update 2>&1 | Out-File -FilePath "e:\3º Ano\LP\Git ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (E:\3┬║ Ano\LP\G...-2m69-gcr7-jv3q:String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+E:\3┬║ Ano\LP\GitHub\versao 1\AulaC-\TechRepair\TechRepair.csproj : warning NU1903: Package 'SQLitePCLRaw.lib.e_sqlite3' 2.1.10 has a known high severity vulnerability, https://github.com/advisories/GHSA-2m69-gcr7-jv3q
+Build started...
